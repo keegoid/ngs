@@ -7,6 +7,7 @@ const data = {
   lastName: 'Doe',
 };
 
+// destructure temp1 and temp2 and put the rest in person
 const { temp1, temp2, ...person } = data;
 
 const newArray = [...restOfItems];
