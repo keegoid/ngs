@@ -5,3 +5,5 @@ process.on('exit', () => {
 });
 
 console.log('Hello!');
+
+// Hello gets executed first due to timeout
