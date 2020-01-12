@@ -1,16 +1,11 @@
 {
   "name": "keegoid-frame-print",
   "version": "1.0.0",
-  "description": "My first NPM package!",
+  "description": "My first npm package!",
   "main": "index.js",
   "scripts": {
-    "test": "ndb index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "pluralsight",
-    "frame-print"
-  ],
   "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  "license": "ISC"
 }
