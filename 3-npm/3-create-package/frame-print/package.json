@@ -1,11 +1,15 @@
 {
   "name": "keegoid-frame-print",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "My first npm package!",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keegoid/keegoid-frame-print.git"
+  },
   "license": "ISC"
 }
