@@ -1,6 +1,6 @@
-const print = require('frame-print');
+const print = require("keegoid-frame-print")
 
-print('Hello NPM!');
+print("Hello NPM!")
 
 /*
 Expected Output:

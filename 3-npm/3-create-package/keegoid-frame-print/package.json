@@ -1,0 +1,16 @@
+{
+  "name": "keegoid-frame-print",
+  "version": "1.0.0",
+  "description": "My first NPM package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ndb index.js"
+  },
+  "keywords": [
+    "pluralsight",
+    "frame-print"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
