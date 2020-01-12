@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "keegoid-frame-print": "^1.0.1"
+    "keegoid-frame-print": "^1.0.2"
   }
 }
