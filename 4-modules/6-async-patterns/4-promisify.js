@@ -1,6 +1,7 @@
 const fs = require('fs');
 const util = require('util');
 
+// a better way than callbacks
 const readFile = util.promisify(fs.readFile);
 
 async function main() {

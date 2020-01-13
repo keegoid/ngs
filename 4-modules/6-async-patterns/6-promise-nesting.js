@@ -1,3 +1,5 @@
+// even better than extracting readfile function from fs.promises
+// more readable
 const fs = require('fs').promises;
 
 async function main() {
